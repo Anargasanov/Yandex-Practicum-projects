@@ -10,7 +10,7 @@
 
 **1. Приоритизация гипотез и анализ A/B-теста интернет-магазина**
 
-<code>[Ссылка](https://github.com/Anargasanov/Yandex-Practicum-projects/blob/79e362b09c1dc5330fd50cc7cbcb6916d1a5605a/AB-testing/AB_testing_hypothesis.ipynb)</code>
+<code>[Ссылка](https://github.com/Anargasanov/Yandex-Practicum-projects/tree/main/AB-testing)</code>
 
 Определены приоритетные гипотезы из 9 предложенных с помощью фреймворков приоритизации (RICE и ICE). Проанализирован A/B тест интернет магазина с целью проверки гипотез, включающий в себя:
 
